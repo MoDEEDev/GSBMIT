@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MoICT.Entities.ccd_name">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAEAAAAAAAAAAAABgCAAEAQAAAAAABII=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.CentralRegistration">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>aADkSCKkLFCkACAAMSAUIlIAQJgggYAAAwCAAgCAQCI=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.InstituteInformation">
+    <Position X="8" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CCMCbAABBBCASCRAIAAAOCYCAAkIAIEAAYAAAESAIAg=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.Intended">
+    <Position X="8.25" Y="3.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAADAAAAAgAAAAAAIAAAAAAAg=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.Logo_mark">
+    <Position X="10.5" Y="2" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAACgAgAigAAAAAAAgAAgIAAAAAAAAUYAARAYASAAA=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.CapitalHistory">
+    <Position X="10.5" Y="5.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAAAgAAAAAAAAAAAACACAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.RegisteryPurposes">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAEAIAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.TradeMark">
+    <Position X="13" Y="1.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>LEiGKAMQRAIXkEFACYAsNiQAggACEEkxoKATQYATCAA=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoICT.Entities.TradeMarksLogo">
+    <Position X="10.5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CentralRegistration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

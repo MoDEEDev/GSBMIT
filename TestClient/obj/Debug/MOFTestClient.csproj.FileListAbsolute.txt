@@ -1,0 +1,4 @@
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOFTestClient\obj\Debug\Window1.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOFTestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOFTestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOFTestClient\obj\Debug\TestClient_MarkupCompile.lref

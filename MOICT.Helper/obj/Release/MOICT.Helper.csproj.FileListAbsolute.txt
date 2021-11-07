@@ -1,0 +1,58 @@
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\mahmoud.d\Desktop\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Users\mahmoud.d\Desktop\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\mahmoud.d\Desktop\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\GSB\MIT\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\GSB\MIT\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\GSB\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\GSB\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\GSB\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+D:\Web Services\MIT\MIT\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+D:\Web Services\MIT\MIT\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+D:\Web Services\MIT\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+D:\Web Services\MIT\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+D:\Web Services\MIT\MIT\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+D:\GSB\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+D:\GSB\MIT_31_1_2019\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+D:\GSB\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+D:\GSB\MIT_31_1_2019\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb
+D:\GSB\MIT_07_2020\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.dll
+D:\GSB\MIT_07_2020\MOICT\MOICT.Helper\bin\Release\MOICT.Helper.pdb
+D:\GSB\MIT_07_2020\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_07_2020\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.dll
+D:\GSB\MIT_07_2020\MOICT\MOICT.Helper\obj\Release\MOICT.Helper.pdb

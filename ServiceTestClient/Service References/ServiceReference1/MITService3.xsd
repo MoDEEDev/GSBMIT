@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/MoICT.Entities" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/MoICT.Entities" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfCentralRegistration">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CentralRegistration" nillable="true" type="tns:CentralRegistration" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCentralRegistration" nillable="true" type="tns:ArrayOfCentralRegistration" />
+  <xs:complexType name="CentralRegistration">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="HasData" nillable="true" type="xs:boolean" />
+      <xs:element minOccurs="0" name="REGAUTZD" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Regps01" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="decCapitalValue" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decRegistryNationalNo" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decRegistryNo" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="dtmCommercialNameDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="dtmRegistryDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="intCommercialNameNo" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="intID_Number" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="intIndv_ID" nillable="true" type="xs:long" />
+      <xs:element minOccurs="0" name="lstTradeMarks" nillable="true" type="tns:ArrayOfTradeMark" />
+      <xs:element minOccurs="0" name="p_indv_id" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="regcn_no" type="xs:decimal" />
+      <xs:element minOccurs="0" name="reggov" nillable="true" type="xs:short" />
+      <xs:element minOccurs="0" name="strAuthorizedSignatoryForFinancial" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strAuthorizedSignatoryForManagement" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strGovernorateName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegisteryPurposes" nillable="true" type="tns:ArrayOfRegisteryPurposes" />
+      <xs:element minOccurs="0" name="strRegistryAddress" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistryName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistryNationality" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistryOwner" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistryPurpose" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistryStatus" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CentralRegistration" nillable="true" type="tns:CentralRegistration" />
+  <xs:complexType name="ArrayOfTradeMark">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="TradeMark" nillable="true" type="tns:TradeMark" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTradeMark" nillable="true" type="tns:ArrayOfTradeMark" />
+  <xs:complexType name="TradeMark">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="decCompanyNO" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decTMSGOV" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decTradeMarkNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decTradeMarkOwnerPOBox" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decTradeMarkOwnerPostCode" nillable="true" type="xs:decimal" />
+      <xs:element minOccurs="0" name="dist" type="xs:short" />
+      <xs:element minOccurs="0" name="dtmApplicationDate" nillable="true" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="intAgencyNo" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="intClassNo" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="intDist" nillable="true" type="xs:int" />
+      <xs:element minOccurs="0" name="strAgencyNameAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strAgencyNameEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strClassNoAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strClassNoEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCompanyType" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCompanyTypeDescAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCompanyTypeDescEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCountryCode" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCountryCodeDescAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strCountryCodeDescEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkArName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkEnName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerAddressAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerAddressEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerCityAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerCityEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerCountry" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkOwnerTel" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkStatusDescAr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strTradeMarkStatusDescEn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="trdmark_status" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TradeMark" nillable="true" type="tns:TradeMark" />
+  <xs:complexType name="ArrayOfRegisteryPurposes">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="RegisteryPurposes" nillable="true" type="tns:RegisteryPurposes" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfRegisteryPurposes" nillable="true" type="tns:ArrayOfRegisteryPurposes" />
+  <xs:complexType name="RegisteryPurposes">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="aim_desc" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RegisteryPurposes" nillable="true" type="tns:RegisteryPurposes" />
+  <xs:complexType name="TradeMarksLogo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="tms_pict" nillable="true" type="xs:base64Binary" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="TradeMarksLogo" nillable="true" type="tns:TradeMarksLogo" />
+  <xs:complexType name="ArrayOfccd_name">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ccd_name" nillable="true" type="tns:ccd_name" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfccd_name" nillable="true" type="tns:ArrayOfccd_name" />
+  <xs:complexType name="ccd_name">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ARMERCHANTNAME" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Arname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ID_NUMBER" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Regcn" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Type" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ccd_name" nillable="true" type="tns:ccd_name" />
+  <xs:complexType name="ArrayOfLogo_mark">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Logo_mark" nillable="true" type="tns:Logo_mark" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfLogo_mark" nillable="true" type="tns:ArrayOfLogo_mark" />
+  <xs:complexType name="Logo_mark">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Company_name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Expiration_dater" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="File_nbr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gral_person_id_nbr" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Gral_person_id_typ" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Logo_data" nillable="true" type="xs:base64Binary" />
+      <xs:element minOccurs="0" name="Mark_name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Mark_name_lang2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Registration_date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Registration_nbr" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Logo_mark" nillable="true" type="tns:Logo_mark" />
+  <xs:complexType name="InstituteInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="IDNumber" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decCapitalValue" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decCurrentCapitalValue" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decGoverCode" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decIndivID" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decNationalityCode" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decOwnerNationalNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decRegNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decRegistrationDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="decRegistrationNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decRegistryNationalNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="dtmRegistryDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="strAuthorized1" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strAuthorized2" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strGovernorateName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strInstituteStatus" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strNationalityDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strOwnerName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="strRegistrationName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="InstituteInformation" nillable="true" type="tns:InstituteInformation" />
+  <xs:complexType name="ArrayOfIntended">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Intended" nillable="true" type="tns:Intended" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfIntended" nillable="true" type="tns:ArrayOfIntended" />
+  <xs:complexType name="Intended">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="intendedCode" type="xs:decimal" />
+      <xs:element minOccurs="0" name="intendedDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="sharedCode" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Intended" nillable="true" type="tns:Intended" />
+  <xs:complexType name="ArrayOfModifications">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Modifications" nillable="true" type="tns:Modifications" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfModifications" nillable="true" type="tns:ArrayOfModifications" />
+  <xs:complexType name="Modifications">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ModificationDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="ModificationDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="afterModification" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="beforeModification" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="decGoverCode" type="xs:decimal" />
+      <xs:element minOccurs="0" name="decInstituteRegistrationNo" type="xs:decimal" />
+      <xs:element minOccurs="0" name="sharedCode" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Modifications" nillable="true" type="tns:Modifications" />
+  <xs:complexType name="ArrayOfInstituteInformation">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="InstituteInformation" nillable="true" type="tns:InstituteInformation" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfInstituteInformation" nillable="true" type="tns:ArrayOfInstituteInformation" />
+</xs:schema>

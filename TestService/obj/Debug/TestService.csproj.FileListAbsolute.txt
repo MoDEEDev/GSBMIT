@@ -1,0 +1,9 @@
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestService\bin\TestService.dll
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestService\bin\TestService.pdb
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestService\obj\Debug\TestService.dll
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestService\obj\Debug\TestService.pdb
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestService\obj\Debug\TestService.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestService\bin\TestService.dll
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestService\bin\TestService.pdb
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestService\obj\Debug\TestService.dll
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestService\obj\Debug\TestService.pdb

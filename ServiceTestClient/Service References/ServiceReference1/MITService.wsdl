@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="MITService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsp:Policy wsu:Id="CustomBinding_IMITService_policy">
+    <wsp:ExactlyOne>
+      <wsp:All>
+        <sp:TransportBinding xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:TransportToken>
+              <wsp:Policy>
+                <sp:HttpsToken RequireClientCertificate="false" />
+              </wsp:Policy>
+            </sp:TransportToken>
+            <sp:AlgorithmSuite>
+              <wsp:Policy>
+                <sp:Basic256 />
+              </wsp:Policy>
+            </sp:AlgorithmSuite>
+            <sp:Layout>
+              <wsp:Policy>
+                <sp:Strict />
+              </wsp:Policy>
+            </sp:Layout>
+          </wsp:Policy>
+        </sp:TransportBinding>
+        <sp:SignedSupportingTokens xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:UsernameToken sp:IncludeToken="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy/IncludeToken/AlwaysToRecipient">
+              <wsp:Policy>
+                <sp:WssUsernameToken10 />
+              </wsp:Policy>
+            </sp:UsernameToken>
+          </wsp:Policy>
+        </sp:SignedSupportingTokens>
+        <sp:Wss11 xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy />
+        </sp:Wss11>
+        <sp:Trust10 xmlns:sp="http://schemas.xmlsoap.org/ws/2005/07/securitypolicy">
+          <wsp:Policy>
+            <sp:MustSupportIssuedTokens />
+            <sp:RequireClientEntropy />
+            <sp:RequireServerEntropy />
+          </wsp:Policy>
+        </sp:Trust10>
+      </wsp:All>
+    </wsp:ExactlyOne>
+  </wsp:Policy>
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:29786/MITService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:29786/MITService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/MOICT" />
+      <xsd:import schemaLocation="http://localhost:29786/MITService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:29786/MITService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MoICT.Entities" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IMITService_getRegisteryInfoByIndividualNationalNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:getRegisteryInfoByIndividualNationalNumber" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getRegisteryInfoByIndividualNationalNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getRegisteryInfoByIndividualNationalNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getRegisteryInfoByIndividualNationalNumber_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q1:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getRegisteryInfoByEstablishmentNationalNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:getRegisteryInfoByEstablishmentNationalNumber" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getRegisteryInfoByEstablishmentNationalNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getRegisteryInfoByEstablishmentNationalNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getRegisteryInfoByEstablishmentNationalNumber_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q2:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMarkLogoBy_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTradeMarkLogoBy" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMarkLogoBy_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTradeMarkLogoByResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMarkLogoBy_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q3="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q3:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_name_InputMessage">
+    <wsdl:part name="parameters" element="tns:getccd_name" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_name_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getccd_nameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_name_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q4="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q4:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_mark_InputMessage">
+    <wsdl:part name="parameters" element="tns:getccd_mark" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_mark_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getccd_markResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getccd_mark_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q5="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q5:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIndividualRegistry_InputMessage">
+    <wsdl:part name="parameters" element="tns:getIndividualRegistry" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIndividualRegistry_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getIndividualRegistryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIndividualRegistry_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q6="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q6:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMark_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTradeMark" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMark_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTradeMarkResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getTradeMark_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q7="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q7:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetRegistryPurposeByIndvID_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistryPurposeByIndvID" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetRegistryPurposeByIndvID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetRegistryPurposeByIndvIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetRegistryPurposeByIndvID_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q8="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q8:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyIDNumber_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetInstitiuteInfobyIDNumber" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyIDNumber_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetInstitiuteInfobyIDNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyIDNumber_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q9="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q9:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIntendedBySharedCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:getIntendedBySharedCode" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIntendedBySharedCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getIntendedBySharedCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getIntendedBySharedCode_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q10="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q10:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getModificationsByRegistrationNoGover_InputMessage">
+    <wsdl:part name="parameters" element="tns:getModificationsByRegistrationNoGover" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getModificationsByRegistrationNoGover_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getModificationsByRegistrationNoGoverResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_getModificationsByRegistrationNoGover_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q11="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q11:MOICTException" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyTradeName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetInstitiuteInfobyTradeName" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyTradeName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetInstitiuteInfobyTradeNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMITService_GetInstitiuteInfobyTradeName_MOICTExceptionFault_FaultMessage">
+    <wsdl:part xmlns:q12="http://schemas.datacontract.org/2004/07/MOICT" name="detail" element="q12:MOICTException" />
+  </wsdl:message>
+  <wsdl:portType name="IMITService">
+    <wsdl:operation name="getRegisteryInfoByIndividualNationalNumber">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByIndividualNationalNumber" message="tns:IMITService_getRegisteryInfoByIndividualNationalNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByIndividualNationalNumberResponse" message="tns:IMITService_getRegisteryInfoByIndividualNationalNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByIndividualNationalNumberMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getRegisteryInfoByIndividualNationalNumber_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getRegisteryInfoByEstablishmentNationalNumber">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByEstablishmentNationalNumber" message="tns:IMITService_getRegisteryInfoByEstablishmentNationalNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByEstablishmentNationalNumberResponse" message="tns:IMITService_getRegisteryInfoByEstablishmentNationalNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getRegisteryInfoByEstablishmentNationalNumberMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getRegisteryInfoByEstablishmentNationalNumber_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTradeMarkLogoBy">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getTradeMarkLogoBy" message="tns:IMITService_getTradeMarkLogoBy_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getTradeMarkLogoByResponse" message="tns:IMITService_getTradeMarkLogoBy_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getTradeMarkLogoByMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getTradeMarkLogoBy_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getccd_name">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getccd_name" message="tns:IMITService_getccd_name_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getccd_nameResponse" message="tns:IMITService_getccd_name_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getccd_nameMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getccd_name_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getccd_mark">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getccd_mark" message="tns:IMITService_getccd_mark_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getccd_markResponse" message="tns:IMITService_getccd_mark_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getccd_markMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getccd_mark_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getIndividualRegistry">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getIndividualRegistry" message="tns:IMITService_getIndividualRegistry_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getIndividualRegistryResponse" message="tns:IMITService_getIndividualRegistry_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getIndividualRegistryMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getIndividualRegistry_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTradeMark">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getTradeMark" message="tns:IMITService_getTradeMark_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getTradeMarkResponse" message="tns:IMITService_getTradeMark_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getTradeMarkMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getTradeMark_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistryPurposeByIndvID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/GetRegistryPurposeByIndvID" message="tns:IMITService_GetRegistryPurposeByIndvID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/GetRegistryPurposeByIndvIDResponse" message="tns:IMITService_GetRegistryPurposeByIndvID_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/GetRegistryPurposeByIndvIDMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_GetRegistryPurposeByIndvID_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInstitiuteInfobyIDNumber">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyIDNumber" message="tns:IMITService_GetInstitiuteInfobyIDNumber_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyIDNumberResponse" message="tns:IMITService_GetInstitiuteInfobyIDNumber_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyIDNumberMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_GetInstitiuteInfobyIDNumber_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getIntendedBySharedCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getIntendedBySharedCode" message="tns:IMITService_getIntendedBySharedCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getIntendedBySharedCodeResponse" message="tns:IMITService_getIntendedBySharedCode_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getIntendedBySharedCodeMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getIntendedBySharedCode_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getModificationsByRegistrationNoGover">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/getModificationsByRegistrationNoGover" message="tns:IMITService_getModificationsByRegistrationNoGover_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/getModificationsByRegistrationNoGoverResponse" message="tns:IMITService_getModificationsByRegistrationNoGover_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/getModificationsByRegistrationNoGoverMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_getModificationsByRegistrationNoGover_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInstitiuteInfobyTradeName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyTradeName" message="tns:IMITService_GetInstitiuteInfobyTradeName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyTradeNameResponse" message="tns:IMITService_GetInstitiuteInfobyTradeName_OutputMessage" />
+      <wsdl:fault wsaw:Action="http://tempuri.org/IMITService/GetInstitiuteInfobyTradeNameMOICTExceptionFault" name="MOICTExceptionFault" message="tns:IMITService_GetInstitiuteInfobyTradeName_MOICTExceptionFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CustomBinding_IMITService" type="tns:IMITService">
+    <wsp:PolicyReference URI="#CustomBinding_IMITService_policy" />
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getRegisteryInfoByIndividualNationalNumber">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getRegisteryInfoByIndividualNationalNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getRegisteryInfoByEstablishmentNationalNumber">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getRegisteryInfoByEstablishmentNationalNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getTradeMarkLogoBy">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getTradeMarkLogoBy" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getccd_name">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getccd_name" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getccd_mark">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getccd_mark" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getIndividualRegistry">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getIndividualRegistry" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getTradeMark">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getTradeMark" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetRegistryPurposeByIndvID">
+      <soap:operation soapAction="http://tempuri.org/IMITService/GetRegistryPurposeByIndvID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetInstitiuteInfobyIDNumber">
+      <soap:operation soapAction="http://tempuri.org/IMITService/GetInstitiuteInfobyIDNumber" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getIntendedBySharedCode">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getIntendedBySharedCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getModificationsByRegistrationNoGover">
+      <soap:operation soapAction="http://tempuri.org/IMITService/getModificationsByRegistrationNoGover" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="GetInstitiuteInfobyTradeName">
+      <soap:operation soapAction="http://tempuri.org/IMITService/GetInstitiuteInfobyTradeName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MOICTExceptionFault">
+        <soap:fault use="literal" name="MOICTExceptionFault" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MITService">
+    <wsdl:port name="CustomBinding_IMITService" binding="tns:CustomBinding_IMITService">
+      <soap:address location="https://localhost:44300/MITService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

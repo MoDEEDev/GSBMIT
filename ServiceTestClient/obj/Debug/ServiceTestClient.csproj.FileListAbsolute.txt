@@ -1,0 +1,259 @@
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud\Desktop\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mahmoud\Desktop\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mahmoud\Desktop\Delivered from MS\Source Code\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mahmoud\Desktop\New folder (2)\MOF\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+G:\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+G:\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+G:\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\Final\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\GSB\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\GSB\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\GSB\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\GSB\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+D:\Web Services\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+D:\Web Services\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+D:\Web Services\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\Service References\ServiceReference1\InstituteInformation.baml
+D:\Web Services\MIT\MOICT\ServiceTestClient\obj\Debug\Service References\ServiceReference1\InstituteInformation.g.cs
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+D:\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+D:\Technical Architect\Web Services\MIT\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+D:\Technical Architect\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+D:\Technical Architect\Web Services\MIT\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\mahmoud.d\Desktop\To Do List\MIT\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache
+D:\GSB\MIT_31_1_2019\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe.config
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.exe
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.exe
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\bin\Debug\ServiceTestClient.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\MainWindow.g.cs
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\App.g.cs
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.cache
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient_MarkupCompile.lref
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\MainWindow.baml
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.g.resources
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.Properties.Resources.resources
+D:\GSB\MIT_07_2020\MOICT\ServiceTestClient\obj\Debug\ServiceTestClient.csproj.GenerateResource.Cache

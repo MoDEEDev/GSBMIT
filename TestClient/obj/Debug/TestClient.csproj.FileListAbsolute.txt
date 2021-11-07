@@ -1,0 +1,68 @@
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.g.resources
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\sherif\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\bin\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.g.resources
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\MOICT\Service Skeleton\MOICT\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\bin\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\bin\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.g.resources
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\MOICT\NAF Service\MOICT\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\bin\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\bin\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient.g.resources
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\CCDService\MOICT\TestClient\obj\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\bin\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\bin\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\MainWindow.baml
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\MainWindow.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\App.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.g.resources
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.exe
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\Window1.g.cs
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\TestClient_MarkupCompile.lref
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\NAFTestClient_MarkupCompile.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\TestClient\obj\Debug\NAFTestClient_MarkupCompile.lref

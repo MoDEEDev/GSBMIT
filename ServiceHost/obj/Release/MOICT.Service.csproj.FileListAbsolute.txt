@@ -1,0 +1,365 @@
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\hsamara\Desktop\MOICT\MOF\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\Entities.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\Entities.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Source Code\Delivered from MS\Source Code\MOF\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\mahmoud.d\Desktop\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\mitadmin\Desktop\mit 30_1\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\Entities.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\Entities.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Source Code\Delivered from MS\Source Code\MIT-PORTAL\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.dll.config
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\Entities.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\GSB\MIT\MOICT\ServiceHost\bin\Entities.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\GSB\MIT\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\GSB\MIT\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\GSB\MIT\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\GSB\MIT\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\mitadmin\Desktop\MIT_Source_code\MIT\MOICT\ServiceHost\obj\Release\MOICT.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.dll.config
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\Entities.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.BLL.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Factory.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Helper.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\Entities.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\obj\Release\MOICT.dll
+D:\Web Services\MIT\MIT\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\mitadmin\Desktop\MIT\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\esbwsadmin\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll.config
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\Administrator\Desktop\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.dll
+C:\Users\esbwsadmin\Desktop\MIT source code\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll.config
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\Entities.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.dll
+D:\GSB\MIT_31_1_2019\MOICT\ServiceHost\obj\Release\MOICT.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.dll.config
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\Entities.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.BLL.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.DataAccess.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Exceptions.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Service.Contract.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Service.Implementation.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.UserValidator.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.IDAL.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Factory.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\Oracle.ManagedDataAccess.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Helper.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\Entities.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.BLL.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.DataAccess.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Exceptions.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Service.Contract.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Service.Implementation.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.UserValidator.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.IDAL.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Factory.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\bin\MOICT.Helper.pdb
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\obj\Release\MOICT.Service.csprojResolveAssemblyReference.cache
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\obj\Release\MOICT.dll
+D:\GSB\MIT_07_2020\MOICT\ServiceHost\obj\Release\MOICT.pdb

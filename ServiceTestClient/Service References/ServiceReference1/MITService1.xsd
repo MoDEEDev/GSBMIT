@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:29786/MITService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/MoICT.Entities" />
+  <xs:element name="getRegisteryInfoByIndividualNationalNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NationalNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRegisteryInfoByIndividualNationalNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getRegisteryInfoByIndividualNationalNumberResult" nillable="true" type="q1:ArrayOfCentralRegistration" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRegisteryInfoByEstablishmentNationalNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NationalNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getRegisteryInfoByEstablishmentNationalNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getRegisteryInfoByEstablishmentNationalNumberResult" nillable="true" type="q2:CentralRegistration" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTradeMarkLogoBy">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="trdmark_no" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="dist" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTradeMarkLogoByResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getTradeMarkLogoByResult" nillable="true" type="q3:TradeMarksLogo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getccd_name">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NationalNo" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getccd_nameResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getccd_nameResult" nillable="true" type="q4:ArrayOfccd_name" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getccd_mark">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="NationalNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="typeid" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getccd_markResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getccd_markResult" nillable="true" type="q5:ArrayOfLogo_mark" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIndividualRegistry">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="registryNationalNo" type="xs:long" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIndividualRegistryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getIndividualRegistryResult" nillable="true" type="q6:CentralRegistration" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTradeMark">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="key" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="keyCode" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTradeMarkResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getTradeMarkResult" nillable="true" type="q7:ArrayOfTradeMark" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRegistryPurposeByIndvID">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="intIndvID" type="xs:long" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetRegistryPurposeByIndvIDResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetRegistryPurposeByIndvIDResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetInstitiuteInfobyIDNumber">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="ID_NUMBER" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetInstitiuteInfobyIDNumberResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="GetInstitiuteInfobyIDNumberResult" nillable="true" type="q8:InstituteInformation" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIntendedBySharedCode">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sharedCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getIntendedBySharedCodeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getIntendedBySharedCodeResult" nillable="true" type="q9:ArrayOfIntended" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getModificationsByRegistrationNoGover">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sharedCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getModificationsByRegistrationNoGoverResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="getModificationsByRegistrationNoGoverResult" nillable="true" type="q10:ArrayOfModifications" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetInstitiuteInfobyTradeName">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="strTradeName" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetInstitiuteInfobyTradeNameResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/MoICT.Entities" minOccurs="0" name="GetInstitiuteInfobyTradeNameResult" nillable="true" type="q11:ArrayOfInstituteInformation" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

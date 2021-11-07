@@ -1,0 +1,26 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ServiceReference1="clr-namespace:NAFTestClient.ServiceReference1" mc:Ignorable="d" x:Class="NAFTestClient.MainWindow"
+        Title="CCD Test Client" Height="623" Width="1101" Loaded="Window_Loaded_1">
+    <Window.Resources>
+
+    </Window.Resources>
+    <Grid Margin="0,0,0,-460" >
+        <Button Content="Get By Name" HorizontalAlignment="Left" Height="23" Margin="271,97,0,0" VerticalAlignment="Top" Width="229" Click="Button_Click_1"/>
+        <TextBox Name="txtUser" HorizontalAlignment="Left" Height="26" Margin="84,10,0,0" TextWrapping="Wrap" Text="test1" VerticalAlignment="Top" Width="120"/>
+        <Label Content="User Name" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="240,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.183,0.538"/>
+        <TextBox Name="txtOrgName" HorizontalAlignment="Left" Height="23" Margin="146,97,0,0" TextWrapping="Wrap" Text="بلدية مادبا الكبرى" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Organization Name" HorizontalAlignment="Left" Margin="10,94,0,0" VerticalAlignment="Top" Width="131"/>
+        <Label Content="National ID" HorizontalAlignment="Left" Margin="7,154,0,0" VerticalAlignment="Top" Width="131"/>
+        <TextBox Name="txtNationalID" HorizontalAlignment="Left" Height="23" Margin="143,155,0,0" TextWrapping="Wrap" Text="Nat ID" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Get by National ID" HorizontalAlignment="Left" Height="23" Margin="268,155,0,0" VerticalAlignment="Top" Width="229" Click="Button_Click_2"/>
+        <DataGrid x:Name="CompaniesGrid" HorizontalAlignment="Left" Margin="7,281,0,0" VerticalAlignment="Top" Height="318" Width="1075" ItemsSource="{Binding}"/>
+        <PasswordBox Name="txtPass" HorizontalAlignment="Left" Margin="300,10,0,0" VerticalAlignment="Top" Width="120" Height="26" Password="S@mara9824"/>
+        <Label Content="Member National ID" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top" Width="131"/>
+        <TextBox Name="txtMemberNatID" HorizontalAlignment="Left" Height="23" Margin="143,211,0,0" TextWrapping="Wrap" Text="Member Nat ID" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Get Company by Member national ID" HorizontalAlignment="Left" Margin="268,207,0,0" VerticalAlignment="Top" Width="229" Height="26" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

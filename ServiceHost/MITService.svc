@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MOICT.Services.MITService" CodeBehind="MOICT.Services.MITService" %>
